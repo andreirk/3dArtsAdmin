@@ -1,0 +1,11 @@
+@media (max-width: 415px) {
+    .ant-modal {
+      width: 90%;
+      max-width: 90%;
+    } 
+  }
+
+.ant-dropdown-menu {
+    max-height: 250px;
+    overflow: auto;
+}  
